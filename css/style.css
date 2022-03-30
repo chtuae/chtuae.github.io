@@ -86,7 +86,7 @@ h2 {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  background-color: #883a42;
+  background-color: #ec098d;
 }
 
 .sub_page .hero_area {
@@ -269,7 +269,7 @@ a:focus {
           flex: 1;
   position: relative;
   z-index: 2;
-  color: #883a42;
+  color: #ec098d;
 }
 
 .slider_section .row {
@@ -453,7 +453,7 @@ a:focus {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background-color: #883a42;
+  background-color: #ec098d;
   padding: 25px;
   height: 325px;
 }
@@ -496,7 +496,7 @@ a:focus {
 }
 
 .decoration_section {
-  background-color: #883a42;
+  background-color: #ec098d;
   color: #ffffff;
 }
 
@@ -576,7 +576,7 @@ a:focus {
   width: 55px;
   height: 90px;
   top: 50%;
-  background-color: #883a42;
+  background-color: #ec098d;
 }
 
 .offer_section .carousel-control-prev span,
@@ -664,7 +664,7 @@ a:focus {
 }
 
 .contact_section .form_container {
-  background-color: #883a42;
+  background-color: #ec098d;
   color: #ffffff;
   padding: 25px;
 }
@@ -778,11 +778,11 @@ a:focus {
 }
 
 .client_section .carousel-indicators li.active {
-  background-color: #883a42;
+  background-color: #ec098d;
 }
 
 .info_section {
-  background-color: #883a42;
+  background-color: #ec098d;
   color: #ffffff;
 }
 
@@ -910,7 +910,7 @@ a:focus {
       -ms-flex-pack: center;
           justify-content: center;
   position: relative;
-  background-color: #883a42;
+  background-color: #ec098d;
 }
 
 .footer_section p {
